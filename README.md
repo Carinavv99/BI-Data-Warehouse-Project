@@ -24,6 +24,7 @@ External Data:
 Geographical data of NYC 
 Data explanation: Coordinates of each zone in NYC
 https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc
+
 Taxi Zone Lookup Table (Names of Each Zone)
 Data explanation: Name of each zone and Borough 
 https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc
